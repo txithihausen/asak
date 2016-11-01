@@ -1,2 +1,2 @@
 # asak
-Arduino Suiss Arm Knife (ASAK) is a library with several useful implementation for Arduino platform
+Arduino Suiss Army Knife (ASAK) is a library with several useful implementations for Arduino platform.

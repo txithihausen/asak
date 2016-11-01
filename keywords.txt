@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map For IRremote
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+OneDigitalTube	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+enableSegment	KEYWORD2
+disableSegment	KEYWORD2
+enableAllSegments	KEYWORD2
+disableAllSegments	KEYWORD2
+enableDP	KEYWORD2
+disableDP	KEYWORD2
+plotNumber KEYWORD2
+
