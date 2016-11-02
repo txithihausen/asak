@@ -1,6 +1,6 @@
 /*
   OneDigitalTube.h - Library for controlling a 1-digitalTube.
-  Created by Ivo Calado<txithihausen@gmail.com>, October 22, 216.
+  Created by Ivo Calado<txithihausen@gmail.com>, October 22, 2016.
   Released into the public domain.
 */
 #ifndef ONEDIGITALTUBE_h
