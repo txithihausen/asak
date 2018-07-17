@@ -20,6 +20,6 @@ enableAllSegments	KEYWORD2
 disableAllSegments	KEYWORD2
 enableDP	KEYWORD2
 disableDP	KEYWORD2
-plotNumber KEYWORD2
-setValue KEYWORD2
+plotNumber	KEYWORD2
+setValue	KEYWORD2
 
